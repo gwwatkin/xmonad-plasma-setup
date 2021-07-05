@@ -1,0 +1,7 @@
+ 
+Type=XSession
+Exec=/usr/share/gw-linux/kdexmonad.sh
+TryExec=/usr/bin/startplasma-x11
+DesktopNames=KDEXmonad
+Name=Plasma + Xmonad
+Comment=Plasma + Xmonad by George
